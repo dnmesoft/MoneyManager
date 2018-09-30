@@ -11,6 +11,8 @@
         android:layout_height="wrap_content"
         android:text="@string/Hello"
         android:textColor="@color/mtextcolor"
+        android:background="@color/ftextcolor"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
